@@ -1,0 +1,3 @@
+/home/soham/Documents/Repositories/C++/STL/CMakeFiles/rebuild_cache.dir
+/home/soham/Documents/Repositories/C++/STL/CMakeFiles/runTests.dir
+/home/soham/Documents/Repositories/C++/STL/CMakeFiles/edit_cache.dir

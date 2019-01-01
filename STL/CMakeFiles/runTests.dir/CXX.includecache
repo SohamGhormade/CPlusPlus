@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/soham/Documents/Repositories/C++/STL/IntStack.cpp
+iostream
+-
+
+/home/soham/Documents/Repositories/C++/STL/MyQueue.cpp
+iostream
+-
+
+/home/soham/Documents/Repositories/C++/STL/heap.cpp
+iostream
+-
+
+/home/soham/Documents/Repositories/C++/STL/tests.cpp
+stack
+-
+queue
+-
+IntStack.cpp
+/home/soham/Documents/Repositories/C++/STL/IntStack.cpp
+MyQueue.cpp
+/home/soham/Documents/Repositories/C++/STL/MyQueue.cpp
+gtest/gtest.h
+-
+heap.cpp
+/home/soham/Documents/Repositories/C++/STL/heap.cpp
+
